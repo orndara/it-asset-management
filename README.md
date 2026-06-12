@@ -17,7 +17,7 @@
 - AJAX for smooth user experience
 
 ## 📥 Installation
-1. Clone repository: `git clone https://github.com/your-username/it-asset-management.git`
+1. Clone repository: git clone https://github.com/orndara/it-asset-management.git
 2. Move to htdocs folder in XAMPP
 3. Import `database.sql` to phpMyAdmin
 4. Configure database in `db_connection.php`
